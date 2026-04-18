@@ -32,7 +32,7 @@
 ```admonish tip title="电机预热没有自动弹出？" collapsible=true
 **只有每日第一次**打开机器时才会自动弹出预热界面。如果今天已经开过机，自动预热不会再弹出——这时需要手动进入预热：
 
-**[新建项目](../04-setup.md#new-project) → 设置 → 电机预热**
+**[新建项目](../04-setup/01-new-project.md#new-project) → 设置 → 电机预热**
 
 ![手动进入电机预热](../images/预热_手动入口.png)
 ```
