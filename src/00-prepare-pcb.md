@@ -1,4 +1,4 @@
-# 第 0 步：准备 PCB
+# 准备 PCB
 
 ```admonish abstract title="TL;DR"
 - 设备不能电镀 → 所有通孔**正反两面默认不连通**

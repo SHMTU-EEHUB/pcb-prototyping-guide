@@ -1,6 +1,6 @@
 # 4. 导入刀路
 
-把[第 3 步保存好的 LMD 文件](../03-toolpath/04-save-lmd.md)导入 Dream Creator。
+把 [保存好的 LMD 文件](../03-toolpath/04-save-lmd.md) 导入 Dream Creator。
 
 1. 点击 **导入文件**
 

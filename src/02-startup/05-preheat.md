@@ -26,7 +26,7 @@
    ![预热完成弹窗](../images/预热_完成弹窗.png)
 
 ```admonish tip title="不用干等"
-预热要约 25 分钟。这段时间请同步去做[第 1 步：导出 Gerber](../01-export-gerber.md)和[第 3 步：刀路计算](../03-toolpath.md),等预热结束再回来继续。
+预热要约 25 分钟。这段时间请同步去做 [导出 Gerber](../01-export-gerber.md) 和 [刀路计算](../03-toolpath.md),等预热结束再回来继续。
 ```
 
 ```admonish tip title="电机预热没有自动弹出？" collapsible=true

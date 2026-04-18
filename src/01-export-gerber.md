@@ -1,4 +1,4 @@
-# 第 1 步：导出 Gerber
+# 导出 Gerber
 
 ```admonish abstract title="本步目标"
 为制板机准备**三个 Gerber 层文件** + **一份 Excellon 钻孔文件**:

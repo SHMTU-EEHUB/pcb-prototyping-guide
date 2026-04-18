@@ -1,6 +1,6 @@
 # 1. 导入 Gerber
 
-把[第 1 步](../01-export-gerber.md)做好的 Gerber 文件用 **U 盘**拷到制板机旁边的电脑上：
+把 [导出 Gerber](../01-export-gerber.md) 得到的文件用 **U 盘**拷到制板机旁边的电脑上：
 
 ![U 盘接口位置](../images/dm350_usb_位置.jpg)
 
@@ -17,7 +17,7 @@
 ![导入成功](../images/circuitcam_导入成功.png)
 
 ```admonish tip title="导入失败，弹出手动导入窗口？" collapsible=true
-如果[第 1 步](../01-export-gerber.md)没按教程导出，或者 EDA 软件更新后默认导出参数变了，可能会弹出手动导入界面：
+如果 [导出 Gerber](../01-export-gerber.md) 时没按教程操作，或者 EDA 软件更新后默认导出参数变了，可能会弹出手动导入界面：
 
 ![手动导入界面](../images/circuitcam_手动导入.png)
 

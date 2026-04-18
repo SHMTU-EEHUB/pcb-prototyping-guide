@@ -49,4 +49,4 @@
 - 代价仅仅是板子上多一些铜色"孤岛"
 ```
 
-如果你确实需要去死铜（比如有高频需求），建议在[第 3 步：计算刀路](../03-toolpath/03-calc-toolpath.md#calc-toolpath)选择带**粗刀**的脚本（`Insulate_*_Rubout_Big_Primary`）——先用 2.0 mm 大刀快速清铜、再用 0.2 mm 小刀精修，比全用 0.2 mm 细刀快很多。
+如果你确实需要去死铜（比如有高频需求），建议在[计算刀路](../03-toolpath/03-calc-toolpath.md#calc-toolpath)选择带**粗刀**的脚本（`Insulate_*_Rubout_Big_Primary`）——先用 2.0 mm 大刀快速清铜、再用 0.2 mm 小刀精修，比全用 0.2 mm 细刀快很多。
