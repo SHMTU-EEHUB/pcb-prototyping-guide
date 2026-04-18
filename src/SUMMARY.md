@@ -41,3 +41,6 @@
   - [铣边框](./05-milling/06-edge.md)
   - [完成](./05-milling/07-finishing.md)
 - [第 6 步：关机](./06-shutdown.md)
+  - [关闭软件与电脑](./06-shutdown/01-software.md)
+  - [关闭机床与总电源](./06-shutdown/02-machine.md)
+  - [关闭气泵与断开气管](./06-shutdown/03-air.md)
