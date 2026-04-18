@@ -7,3 +7,5 @@
 - [2. 制作垫板](./04-setup/02-baseboard.md)
 - [3. 铜板定位](./04-setup/03-positioning.md)
 - [4. 导入刀路](./04-setup/04-import-toolpath.md)
+- [5. 拼板（可选）](./04-setup/05-panelize.md)
+- [6. 移动位置（可选）](./04-setup/06-move-position.md)
